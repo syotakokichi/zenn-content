@@ -1,5 +1,5 @@
 ---
-title: "launchdからDesktop配下のスクリプトが動かない ― TCCとcom.apple.provenanceにハマった話"
+title: "launchdでスクリプトを定期実行したら Operation not permitted ― TCCとcom.apple.provenance"
 emoji: "🔐"
 type: "tech"
 topics: ["macos", "launchd", "shell", "claudecode", "自動化"]
