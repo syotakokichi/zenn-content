@@ -3,7 +3,7 @@ title: "launchdで定期実行したら Operation not permitted ― TCCとcom.ap
 emoji: "🔐"
 type: "tech"
 topics: ["macos", "launchd", "shell", "claudecode", "自動化"]
-published: false
+published: true
 ---
 
 ## 結論
