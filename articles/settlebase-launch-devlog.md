@@ -193,4 +193,5 @@ https://settlebase-sandy.vercel.app
 ## 連載一覧
 
 1. AI駆動開発で社内精算デモ基盤を1日で公開するまでの実録(本記事)
-2. 第2弾以降: 準備中(公開後にここへリンクを追記します)
+2. [AIにコードを書かせる時代のSupabase RLS——マルチテナント境界をpgTAPとCIで守る実録](https://zenn.dev/syommy_program/articles/settlebase-tenant-boundary)
+3. 第3弾以降: 準備中(公開後にここへリンクを追記します)
