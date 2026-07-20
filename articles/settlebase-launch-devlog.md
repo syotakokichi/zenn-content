@@ -194,4 +194,5 @@ https://settlebase-sandy.vercel.app
 
 1. AI駆動開発で社内精算デモ基盤を1日で公開するまでの実録(本記事)
 2. [AIにコードを書かせる時代のSupabase RLS——マルチテナント境界をpgTAPとCIで守る実録](https://zenn.dev/syommy_program/articles/settlebase-tenant-boundary)
-3. 第3弾以降: 準備中(公開後にここへリンクを追記します)
+3. [AI開発でタスクは増える、全体は見えない——beads俯瞰ビューア自作の実録](https://zenn.dev/syommy_program/articles/beadmap-beads-viewer)
+4. 第4弾以降: 準備中(公開後にここへリンクを追記します)
